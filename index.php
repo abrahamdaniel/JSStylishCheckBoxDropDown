@@ -9,7 +9,6 @@
 
 <link rel="stylesheet" href="css/form.css" type="text/css" />
 <script type="text/javascript" src="js/custom-form-elements.js"></script>
-<center>
 <h1>Stylish Checkbox</h1>
     <input type="checkbox" name="a" class="styled" />
 
@@ -25,6 +24,5 @@
       <option value="2" style="height:25px;font-size:16px;">Option 2</option>
       <option value="3" style="height:25px;font-size:16px;">Option 3</option>
     </select>
-</center>
 </body>
 </html>
